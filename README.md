@@ -173,7 +173,7 @@ I enjoy working on problems involving:
   </a>
 </p>
 
-📧 **Email:** `YOUR_EMAIL_HERE`
+📧 **Email:** `sumon.v0.0@gmail.com`
 
 ---
 
