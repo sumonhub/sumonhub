@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Open%20to-Relocation%20(EU)-2E75B6?style=flat-square"/>
 </p>
 
-I'm a senior software engineer with **7+ years of experience** building and shipping production applications across Android, backend systems, and infrastructure. My primary focus is **native Android development with Kotlin**, backed by hands-on experience across backend engineering, DevOps, and production deployment — which lets me take a product from architecture to Play Store release without handoffs.
+I'm a senior software engineer with **6+ years of experience** building and shipping production applications across Android, backend systems, and infrastructure. My primary focus is **native Android development with Kotlin**, backed by hands-on experience across backend engineering, DevOps, and production deployment — which lets me take a product from architecture to Play Store release without handoffs.
 
 - 📱 Native Android & Kotlin, Jetpack Compose
 - 🧩 Backend & REST API development
@@ -116,8 +116,8 @@ Expanding into **on-device AI** — building mobile applications that run infere
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sumonhub&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumonhub&layout=compact&theme=transparent&hide_border=true" height="180"/>
+  <img src="https://readme-stats.itsvg.in/api?username=sumonhub&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="180"/>
+  <img src="https://readme-stats.itsvg.in/api/top-langs/?username=sumonhub&layout=compact&theme=transparent&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
@@ -127,6 +127,8 @@ Expanding into **on-device AI** — building mobile applications that run infere
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sumonhub&theme=github-compact&hide_border=true"/>
 </p>
+
+> **নোট:** stats badge-গুলো community-hosted mirror (`readme-stats.itsvg.in`) ব্যবহার করছে, কারণ official `github-readme-stats.vercel.app` public instance ২০২৬ সাল থেকে owner নিজেই pause করে রেখেছেন। এই mirror-ও কখনো broken দেখালে, GitHub-এ নিজের একটা free Vercel instance deploy করাই সবচেয়ে নির্ভরযোগ্য দীর্ঘমেয়াদী সমাধান (নিচে লিংক)।
 
 ---
 
