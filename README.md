@@ -113,22 +113,9 @@ Expanding into **on-device AI** — building mobile applications that run infere
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Featured Repositories
 
-<p align="center">
-  <img src="https://readme-stats.itsvg.in/api?username=sumonhub&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="180"/>
-  <img src="https://readme-stats.itsvg.in/api/top-langs/?username=sumonhub&layout=compact&theme=transparent&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sumonhub&theme=transparent&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sumonhub&theme=github-compact&hide_border=true"/>
-</p>
-
-> **নোট:** stats badge-গুলো community-hosted mirror (`readme-stats.itsvg.in`) ব্যবহার করছে, কারণ official `github-readme-stats.vercel.app` public instance ২০২৬ সাল থেকে owner নিজেই pause করে রেখেছেন। এই mirror-ও কখনো broken দেখালে, GitHub-এ নিজের একটা free Vercel instance deploy করাই সবচেয়ে নির্ভরযোগ্য দীর্ঘমেয়াদী সমাধান (নিচে লিংক)।
+You can find my pinned repositories — including COPVPN, Bibaaha.com, and Zikraa — directly on this profile above, or browse all repositories via the link below.
 
 ---
 
