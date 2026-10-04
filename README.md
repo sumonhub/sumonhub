@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Open%20to-Relocation%20(EU)-2E75B6?style=flat-square"/>
 </p>
 
-I'm a senior software engineer with **6+ years of experience** building and shipping production applications across Android, backend systems, and infrastructure. My primary focus is **native Android development with Kotlin**, backed by hands-on experience across backend engineering, DevOps, and production deployment — which lets me take a product from architecture to Play Store release without handoffs.
+I'm a senior software engineer with **7+ years of experience** building and shipping production applications across Android, backend systems, and infrastructure. My primary focus is **native Android development with Kotlin**, backed by hands-on experience across backend engineering, DevOps, and production deployment — which lets me take a product from architecture to Play Store release without handoffs.
 
 - 📱 Native Android & Kotlin, Jetpack Compose
 - 🧩 Backend & REST API development
