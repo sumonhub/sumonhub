@@ -2,7 +2,7 @@
 <h3 align="center">Senior Android Engineer · Kotlin · Backend · DevOps</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Experience-6%2B%20Years-2E75B6?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Experience-7%2B%20Years-2E75B6?style=flat-square"/>
   <img src="https://img.shields.io/badge/Apps%20Shipped-8%2B-2E75B6?style=flat-square"/>
   <img src="https://img.shields.io/badge/Downloads-200K%2B-2E75B6?style=flat-square"/>
   <img src="https://img.shields.io/badge/Open%20to-Relocation%20(EU)-2E75B6?style=flat-square"/>
